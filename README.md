@@ -1,2 +1,3 @@
-# react-firebase-todo
-Simple React Firebase v9 todo app
+# React Firebase Todo App
+
+Simple React Todo app using Firebase v9
